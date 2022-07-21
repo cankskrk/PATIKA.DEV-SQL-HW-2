@@ -1,7 +1,5 @@
 ## PATIKE.DEV-SQL-HW-2
 
-<br>
-
 ## [Patika.dev](https://www.patika.dev/tr)
 
 ---
